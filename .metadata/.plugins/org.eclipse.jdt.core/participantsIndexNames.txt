@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+G:\Mi unidad\Cursos\Coursera\Java\Java as a Second Language by LearnQuest\eclipse-workspace2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4011136517.index
+\LabsJavaAsSecondLanguegeDWP-SP2\src\main\java
+G:\Mi unidad\Cursos\Coursera\Java\Java as a Second Language by LearnQuest\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4011136517.index
+\LabsJavaAsSecondLanguegeDWP-SP2\src\main\java

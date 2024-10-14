@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+G:\Mi unidad\Cursos\Coursera\Java\Java as a Second Language by LearnQuest\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2665361061.index
+1119088267.index
+2610053435.index
+3555531746.index
+1774604689.index
